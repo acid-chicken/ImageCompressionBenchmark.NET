@@ -1,0 +1,1 @@
+# ImageCompressionBenchmark.NET
